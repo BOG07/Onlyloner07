@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning programming 
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on more programming class
-- 📫 How to reach me 07046760745 
 
 <!---
 Onlyloner07/Onlyloner07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
